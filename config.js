@@ -9,7 +9,7 @@ const CONFIG = {
     btnNo: 'Đúng, Em nghĩ Anh là 1 IT <3',
     question: 'Bé Hưn Đườq Hổ muốn nói gì anh nữa hônggg <3',
     btnReply: 'Gửiiiii <3',
-    reply: 'Anh biết em muốn gửi gì mà bấm gửi cho anh nha <33333333',
+    reply: 'Anh biết em, muốn gửi gì mà bấm gửi cho anh nha <33333333',
     mess: 'Nói vậy thôi chứ anh cũng không biết em ghi gì đâu 🥰 haha 😘😘',
     messDesc: 'Có gì nhắn câu em muốn hỏi cho anh ha.',
     btnAccept: 'Okiiiii lun <3',
